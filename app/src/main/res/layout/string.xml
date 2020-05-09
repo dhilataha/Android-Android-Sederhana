@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <resources>
+        <string-array android:name="pilihprodi">
+            <item >--Pilih--</item>
+            <item   >ILKOM</item>
+            <item   >MATH</item>
+            <item   >STAT</item>
+        </string-array>
+
+        <string-array android:name="pilihagama">
+            <item >--Pilih--</item>
+            <item   >Islam</item>
+            <item   >Katolik</item>
+            <item   >Protestan</item>
+            <item   >Budha</item>
+            <item   >Hindu</item>
+            <item   >Konghucu</item>
+        </string-array>
+    </resources>
+</android.support.constraint.ConstraintLayout>
